@@ -26,8 +26,7 @@ rubiks-cube-solver/
 │ ├── RubixCubeSolver.java
 │ ├── Solve.java
 │ └── solver.java
-├── data/
-│ ├── PreSetNet.csv
-│ └── PreSetNet.txt
+├──PreSetNet.csv
+├──PreSetNet.txt
 ├── .gitignore
 └── README.md
